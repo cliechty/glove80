@@ -24,7 +24,7 @@
 #include <dt-bindings/zmk/outputs.h>
 
 /* To deal with the situation where there is no Lower layer, to keep &lower happy */
-#define LAYER_Lower 0
+// #define LAYER_Lower 0
 
 /* Automatically generated layer name #define */
 #define LAYER_Base 0
